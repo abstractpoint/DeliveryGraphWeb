@@ -1,0 +1,5 @@
+config/database.php
+config/core.php
+tmp/**/*
+webroot/index.php
+webroot/.htaccess

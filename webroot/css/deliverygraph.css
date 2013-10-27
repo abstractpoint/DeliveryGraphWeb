@@ -1,0 +1,23 @@
+.container {
+background:white;
+opacity:0.7;
+}
+
+h1,h2,h3,h4,h5,h6 { 
+font-family: 'Lato', sans-serif;
+font-weight: 300; 
+}
+
+.btn { 
+font-family: 'Lato', sans-serif;
+font-weight: 300; 
+}
+.btn-primary {
+background:#39B54A;
+border:#39B54A;
+}
+
+.btn-primary:hover {
+background:#5d5d5d;
+border:#5d5d5d;
+}
