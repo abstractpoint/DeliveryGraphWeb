@@ -1,4 +1,3 @@
-
 <div class="row">
 	<div class="col-md-7">
 	<img src="<?=$this->webroot?>img/iphone-white.jpg" alt="iphone-image940" class="img-thumbnail" width="" height="" />
