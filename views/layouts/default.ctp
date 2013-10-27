@@ -30,12 +30,15 @@
 	<a href="<?=$this->webroot?>"><img style="" src="<?=$this->webroot?>img/logo.jpg" alt="logo" width="" height="" /></a>
 	</div>
 	<div class="col-md-offset-6 col-md-2">
-	<a class="btn btn-primary btn-lg btn-block">Business Login</a>
+	<a href="<?=$this->webroot?>companies/login" class="btn btn-primary btn-lg btn-block">Business Login</a>
 	</div>
 </div>
 
 <hr>
 <?php echo $content_for_layout; ?>
+<hr>
+<p>&copy; 2013-2014 DeliveryGraph</p>
+<?php echo $this->element('sql_dump'); ?>
 </div>
 </body>
 </html>
